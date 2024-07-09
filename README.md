@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left">
+  <a href="https://github.com/ryosuke-shi">
+    <img height="20" src="https://komarev.com/ghpvc/?username=ryosuke-shi" />
+  </a>
+  <a href="https://github.com/ryosuke-shi">
+    <img height="20" src="https://img.shields.io/github/followers/ryosuke-shi?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/getto_getto">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/getto_getto/posts.svg" />
+  </a>
+  <a href="http://qiita.com/getto_getto">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/getto_getto/contributions.svg" />
+  </a>
+</p>
+
