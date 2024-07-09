@@ -15,6 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryosuke-shi&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryosuke-shi&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryosuke-shi&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryosuke-shi&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryosuke-shi&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=ryosuke-shi&theme=gruvbox)
+
 <p align="left">
   <a href="https://github.com/ryosuke-shi">
     <img height="20" src="https://komarev.com/ghpvc/?username=ryosuke-shi" />
