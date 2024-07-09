@@ -1,6 +1,6 @@
 # Hi! 👋 Welcome to my GitHub! 😊
 **I like Unity and Blender.**
-[CG作品.pdf](https://github.com/user-attachments/files/16138143/CG.pdf)
+![image](https://github.com/ryosuke-shi/ryosuke-shi/assets/166581480/fc81c81b-31ca-4b09-9600-7913e605474e)
 
 <!--
 **ryosuke-shi/ryosuke-shi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
