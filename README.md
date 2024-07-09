@@ -1,5 +1,5 @@
 # Hi! 👋 Welcome to my GitHub! 😊
-** I like Unity and Blender. **
+**I like Unity and Blender.**
 [CG作品.pdf](https://github.com/user-attachments/files/16138143/CG.pdf)
 
 <!--
